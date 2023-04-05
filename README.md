@@ -12,15 +12,17 @@ Word search puzzle Generator for any purpose but initially developed for KDP low
     - Puzzle size
     - Number of puzzle to generate
 - For every generated puzzle you will get:
-    - puzzle.png
-    - puzzle.svg
-    - solution.png
-    - solution.svg
+    - Puzzle
+        - word_search.png
+        - word_search.svg
+    - Puzzle solved
+        - solution.png
+        - solution.svg
 
 
 ## Installation
 
-Just install requirements.txt 
+Just install libraries from requirements.txt 
 
 ```
   pip install -r requirements.txt
